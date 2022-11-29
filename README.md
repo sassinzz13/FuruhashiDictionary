@@ -1,4 +1,5 @@
 #Furuhashi a Dictionary
+#A react application website with electron support
 
 Ver 0.0.1 
 
