@@ -3,7 +3,7 @@
 
 Ver 0.0.1 
 
-#[Patch notes]
+#[Patch notes 11/29/2022]
 NavBar added 
 Hero section made responsive 
 
